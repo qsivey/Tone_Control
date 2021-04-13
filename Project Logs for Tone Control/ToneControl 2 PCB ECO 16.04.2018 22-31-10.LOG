@@ -1,0 +1,226 @@
+Added Component: Designator=AUX1(AUX_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=AUX2(AUX_2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C1(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "47nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "22nF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP_CER_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "4.7nF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP_POL_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HEADER2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=PR1(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=PR2(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=PR3(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "500K"; VariantName = "[No Variations]"
+Added Component: Designator=PR4(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=PR5(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=PR6(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "500K"; VariantName = "[No Variations]"
+Added Component: Designator=PR7(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=PR8(REOSTAT_CUS)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "3.9K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "3.9K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "12K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "3.9K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "3.9K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES_MED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1.8K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=P1-1
+Added Net: Name=+5V
+Added Pin To Net: NetName=-5V Pin=C6-2
+Added Pin To Net: NetName=-5V Pin=P1-2
+Added Net: Name=-5V
+Added Pin To Net: NetName=GND Pin=AUX1-1
+Added Pin To Net: NetName=GND Pin=AUX2-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=PR7-3
+Added Pin To Net: NetName=GND Pin=PR8-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetAUX1_2 Pin=AUX1-2
+Added Pin To Net: NetName=NetAUX1_2 Pin=C1-1
+Added Net: Name=NetAUX1_2
+Added Pin To Net: NetName=NetAUX1_3 Pin=AUX1-3
+Added Pin To Net: NetName=NetAUX1_3 Pin=C8-1
+Added Net: Name=NetAUX1_3
+Added Pin To Net: NetName=NetAUX2_2 Pin=AUX2-2
+Added Pin To Net: NetName=NetAUX2_2 Pin=PR7-2
+Added Net: Name=NetAUX2_2
+Added Pin To Net: NetName=NetAUX2_3 Pin=AUX2-3
+Added Pin To Net: NetName=NetAUX2_3 Pin=PR8-2
+Added Net: Name=NetAUX2_3
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R1-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R6-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=PR1-3
+Added Pin To Net: NetName=NetC2_1 Pin=R1-2
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=PR1-1
+Added Pin To Net: NetName=NetC2_2 Pin=R3-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=PR2-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C5-2
+Added Pin To Net: NetName=NetC3_2 Pin=R4-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=PR3-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=PR4-3
+Added Pin To Net: NetName=NetC7_1 Pin=R8-2
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=PR4-1
+Added Pin To Net: NetName=NetC7_2 Pin=R9-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R8-1
+Added Pin To Net: NetName=NetC8_2 Pin=R11-1
+Added Pin To Net: NetName=NetC8_2 Pin=R13-1
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=PR5-2
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=R10-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=PR6-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R3-2
+Added Pin To Net: NetName=NetC11_1 Pin=R5-2
+Added Pin To Net: NetName=NetC11_1 Pin=R7-2
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=PR7-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R9-2
+Added Pin To Net: NetName=NetC12_1 Pin=R12-2
+Added Pin To Net: NetName=NetC12_1 Pin=R14-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=PR8-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetPR1_2 Pin=PR1-2
+Added Pin To Net: NetName=NetPR1_2 Pin=R4-1
+Added Net: Name=NetPR1_2
+Added Pin To Net: NetName=NetPR2_1 Pin=PR2-1
+Added Pin To Net: NetName=NetPR2_1 Pin=R5-1
+Added Net: Name=NetPR2_1
+Added Pin To Net: NetName=NetPR2_3 Pin=PR2-3
+Added Pin To Net: NetName=NetPR2_3 Pin=R2-2
+Added Net: Name=NetPR2_3
+Added Pin To Net: NetName=NetPR3_1 Pin=PR3-1
+Added Pin To Net: NetName=NetPR3_1 Pin=R7-1
+Added Net: Name=NetPR3_1
+Added Pin To Net: NetName=NetPR3_3 Pin=PR3-3
+Added Pin To Net: NetName=NetPR3_3 Pin=R6-2
+Added Net: Name=NetPR3_3
+Added Pin To Net: NetName=NetPR4_2 Pin=PR4-2
+Added Pin To Net: NetName=NetPR4_2 Pin=R10-1
+Added Net: Name=NetPR4_2
+Added Pin To Net: NetName=NetPR5_1 Pin=PR5-1
+Added Pin To Net: NetName=NetPR5_1 Pin=R12-1
+Added Net: Name=NetPR5_1
+Added Pin To Net: NetName=NetPR5_3 Pin=PR5-3
+Added Pin To Net: NetName=NetPR5_3 Pin=R11-2
+Added Net: Name=NetPR5_3
+Added Pin To Net: NetName=NetPR6_1 Pin=PR6-1
+Added Pin To Net: NetName=NetPR6_1 Pin=R14-1
+Added Net: Name=NetPR6_1
+Added Pin To Net: NetName=NetPR6_3 Pin=PR6-3
+Added Pin To Net: NetName=NetPR6_3 Pin=R13-2
+Added Net: Name=NetPR6_3
+Added Class: Name=ToneControl

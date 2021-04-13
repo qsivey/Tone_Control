@@ -1,0 +1,13 @@
+Added Component: Designator=U1(DIP8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "TL-082"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC11_1 Pin=U1-1
+Added Pin To Net: NetName=NetC3_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=-5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=NetC9_2 Pin=U1-6
+Added Pin To Net: NetName=NetC12_1 Pin=U1-7
+Added Pin To Net: NetName=+5V Pin=U1-8
+Added Member To Class: ClassName=ToneControl Member=Component U1 TL-082
+Added Room: Name=ToneControl
